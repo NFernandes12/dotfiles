@@ -31,3 +31,4 @@ export PATH="$HOME/.local/bin":$PATH
 eval "$(starship init bash)"
 alias la='ls -la --color=auto'
 alias vim='nvim'
+alias lock='i3lock'
